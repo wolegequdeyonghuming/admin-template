@@ -1,5 +1,7 @@
 # admin-template
 
+origin: http://panjiachen.github.io/vue-admin-template
+
 ## Project setup
 ```
 npm install

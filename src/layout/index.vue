@@ -90,8 +90,8 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-  @import "~@/styles/mixin.scss";
-  @import "~@/styles/variables.scss";
+  @import "~@/styles/common/mixin.scss";
+  @import "~@/styles/common/variables.scss";
 
   .mdi{
     font-size: 24px;
